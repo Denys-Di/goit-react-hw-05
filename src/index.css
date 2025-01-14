@@ -1,0 +1,30 @@
+:root {
+  --black: #0a1330;
+  --active: #092ef2;
+  --first-background: #f2fce0;
+  --main-font: "DM Sans", sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+  font-family: var(--main-font);
+}
+
+ul,
+ol {
+  margin: 0;
+  padding: 0;
+  font-family: var(--main-font);
+
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
